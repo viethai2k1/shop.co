@@ -23,7 +23,7 @@ export default function Header() {
         </div>
       </div>
       <div className="w-[1180px] mx-auto flex justify-between border-b-2 py-[20px]">
-        <Link href={"http://localhost:3000/"} className="text-[27px] font-bold">
+        <Link href={"http://localhost:3000/"} className="text-[27px] font-[700]">
           SHOP.CO
         </Link>
         <div className="flex items-center gap-4">
