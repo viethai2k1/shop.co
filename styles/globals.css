@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.image-slide img{
+    transition: all 0.5s;
+}
+
+.image-slide:hover img{
+    transform: translateX(-100%);
+}
+
+.bo:hover .con{
+    display: block;
+}
